@@ -42,14 +42,19 @@ Step 1: - Visit Fee Master Page, and click on `Create Fee Master` button.
 <img src="/docs/img/create_fee_master.png">
 
 Step 2: - Create Fee Master Form:-
+
     1. Enter Fee Name
+
     2. Repeat `check if this fee will repeat or not`
+
     3. Active From `from which date this fee will active`
+
     4. Relaxation upto `enter number of days after activation no late fine will occur.`
+    
     4. Status `if this fee is active or not`
 
-<img src="/docs/img/create_classs_form_repeat.png">
+<img src="/docs/img/create_class_form_repeat.png">
 
 Step 3: - Add Class wise fee with amount
 
-<img src="/docs/select_class.png">
+<img src="/docs/img/select_class.png">
