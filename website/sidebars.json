@@ -1,10 +1,7 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Registration & Setup": ["doc1"],
+    "Admission": ["doc2"],
+    "Fee Submission": ["doc3"]
   }
 }
