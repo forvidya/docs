@@ -57,7 +57,10 @@ const siteConfig = {
     primaryColor: "#3ea067",
     secondaryColor: "#2b7048"
   },
-
+  url: "https://forvidya.github.io", // Replace USERNAME with your GitHub username.
+  baseUrl: "/docs/", // The name of your GitHub project.
+  projectName: "docs", // The name of your GitHub project. Same as above.
+  organizationName: "ForVidya",
   /* Custom fonts for website */
   /*
   fonts: {
